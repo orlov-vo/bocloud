@@ -1,0 +1,15 @@
+{
+  "name": "bocloud",
+  "version": "1.0.0",
+  "description": "Web-site for BoCloud",
+  "main": "server.js",
+  "repository": "https://github.com/orlov-vo/bocloud.git",
+  "author": "Vladislav Orlov <ovo@100idea.ru>",
+  "license": "CC BY-NC-ND 4.0",
+  "scripts": {
+    "start": "node --harmony server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
